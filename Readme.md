@@ -14,8 +14,8 @@
   <li>THIS IS CONFUSING:</li>
   <li>Make a <h3>Headline</h3></li>
   <li>THIS IS MY HEADLINE:</li>
-  <li>Add an image (<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</li>
-  <li>http://all-puppies.com/wp-content/uploads/2013/01/cute-english-bulldog-puppies.jpg:</li>
+  <li>Add an image</li>
+  <li>http://all-puppies.com/wp-content/uploads/2013/01/cute-english-bulldog-puppies.jpg" height="100" width="100"</li>
   <li><a href="www.coastal.edu">Link</a> to some website.</li>
   <li>www.coastal.edu:</li>
   <li>Add another item to the bottom of this list!</li>
