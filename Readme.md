@@ -12,8 +12,8 @@
 <ol>
   <li><b>French Bulldogs are the BEST</b></li>
   <li>Bulldog puppies are cute:</li>
-  <li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTosBPFgGQ3kGx4wjJGsMq2U5LMeyrE3jmzJ64ssav4mka3j9tL"> <height="400" width="400"></li>
-  <li><a href="www.coastal.edu">Link</a> to some website.</li>
+  <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTosBPFgGQ3kGx4wjJGsMq2U5LMeyrE3jmzJ64ssav4mka3j9tL" height="400" width="400">
+  <li><a href="http://www.puppyfind.com/english+bulldog.php">Link</a>Puppies for Sale</li>
   <li>www.coastal.edu:</li>
   <li>Add another item to the bottom of this list!</li>
   <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
