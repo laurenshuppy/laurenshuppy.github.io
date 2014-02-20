@@ -10,9 +10,7 @@
   
 <h2 id="Exercise1">Exercise 1</h2>
 <ol>
-  <li><b>Bold</b> some text</li>
-  <li>THIS IS CONFUSING:</li>
-  <li>Make a <h3>Headline</h3></li>
+  <li><b>French Bulldogs are the BEST</b></li>
   <li>Bulldog puppies are cute:</li>
   <li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTosBPFgGQ3kGx4wjJGsMq2U5LMeyrE3jmzJ64ssav4mka3j9tL"> <height="400" width="400"></li>
   <li><a href="www.coastal.edu">Link</a> to some website.</li>
