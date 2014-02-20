@@ -13,12 +13,13 @@
   <li><b>French Bulldogs are the BEST</b></li>
   <li>Bulldog puppies are cute:</li>
   <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTosBPFgGQ3kGx4wjJGsMq2U5LMeyrE3jmzJ64ssav4mka3j9tL" height="400" width="400">
-  <li><a href="http://www.puppyfind.com/for_sale/?breed_id=137">Link</a>Puppies for Sale</li>
-  <li>www.coastal.edu:</li>
-  <li>Add another item to the bottom of this list!</li>
-  <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
-</ol>
-
+  <li><a href="http://www.puppyfind.com/for_sale/?breed_id=137">Link</a> Puppies for Sale</li>
+  <li>http://www.puppyfind.com/for_sale/?breed_id=137:</li>
+  <address>
+  Written by Lauren Shuppy <br>
+  Any Info <a href="mailto:us@example.org"> Email me </a><br>
+  
+  
 <h2 id="Exercise2">Exercise 2</h2>
 <ol>
   <li>Update all references in this document which say Mike or MikeSchroll to your own name and github username.</li>
