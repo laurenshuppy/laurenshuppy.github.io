@@ -1,4 +1,4 @@
-MikeSchroll.github.io
+LaurenShuppy.github.io
 =====================
 
 Your Public Site
