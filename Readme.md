@@ -21,5 +21,5 @@
   
   
 
-<li>Write your own content to replace what you've removed. At least two sentences, and use two HTML tags.</li>
+<li>The French Bulldog is a sturdy, compact, stocky little dog, with a large square head that has a rounded forehead. The French Bulldog originated in 19th Century Nottingham, England, where lace makers decided to make a smaller, miniature, lap version of the English Bulldog that was referred to as a "toy" bulldog. In the 1860s, when the Industrial Revolution drove the craftsmen to France, they took their dogs with them.</li>
 </ol>
