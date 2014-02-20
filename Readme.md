@@ -13,9 +13,8 @@
   <li><b>Bold</b> some text</li>
   <li>THIS IS CONFUSING:</li>
   <li>Make a <h3>Headline</h3></li>
-  <li>THIS IS MY HEADLINE:</li>
-  <li>Add an image</li>
-  <li>http://all-puppies.com/wp-content/uploads/2013/01/cute-english-bulldog-puppies.jpg" height="100" width="100"</li>
+  <li>Bulldog puppies are cute:</li>
+  <li><a href="http://all-puppies.com/wp-content/uploads/2013/01/cute-english-bulldog-puppies.jpg"> <height="100" width="100"</li>
   <li><a href="www.coastal.edu">Link</a> to some website.</li>
   <li>www.coastal.edu:</li>
   <li>Add another item to the bottom of this list!</li>
