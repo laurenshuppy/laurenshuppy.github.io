@@ -20,14 +20,6 @@
   Any Info <a href="mailto:us@example.org"> Email me </a><br>
   
   
-<h2 id="Exercise3">Exercise 3</h2>
-<ol>
-  <li><a href="https://help.github.com/articles/markdown-basics">Learn about Markdown</a> and replicate Exercise 1 inside Readme.md</li>
-</ol>
 
-<h2 id="Exercise4">Exercise 4</h2>
-<ol>
-  <li>Remove everything in this document between "Welcome to my site!" and "The End." Below, <b>EXCEPT</b> for Exercise1.</li>
-<li>That includes removing this section 4!</li>
 <li>Write your own content to replace what you've removed. At least two sentences, and use two HTML tags.</li>
 </ol>
