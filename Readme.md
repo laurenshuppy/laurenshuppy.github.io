@@ -20,12 +20,6 @@
   Any Info <a href="mailto:us@example.org"> Email me </a><br>
   
   
-<h2 id="Exercise2">Exercise 2</h2>
-<ol>
-  <li>Update all references in this document which say Mike or MikeSchroll to your own name and github username.</li>
-  <li>Go into Readme.md instead of index.html and update MikeSchroll to your github username</li>
-</ol>
-
 <h2 id="Exercise3">Exercise 3</h2>
 <ol>
   <li><a href="https://help.github.com/articles/markdown-basics">Learn about Markdown</a> and replicate Exercise 1 inside Readme.md</li>
