@@ -14,7 +14,7 @@
   <li>THIS IS CONFUSING:</li>
   <li>Make a <h3>Headline</h3></li>
   <li>Bulldog puppies are cute:</li>
-  <li><a href="http://all-puppies.com/wp-content/uploads/2013/01/cute-english-bulldog-puppies.jpg"> <height="100" width="100"</li>
+  <li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTosBPFgGQ3kGx4wjJGsMq2U5LMeyrE3jmzJ64ssav4mka3j9tL"> <height="400" width="400"></li>
   <li><a href="www.coastal.edu">Link</a> to some website.</li>
   <li>www.coastal.edu:</li>
   <li>Add another item to the bottom of this list!</li>
