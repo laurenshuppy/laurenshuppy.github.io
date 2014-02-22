@@ -4,6 +4,78 @@
     <title>
     Mike's Public Website
     </title>
+    <style>
+      body {
+            padding:20px 0 30px;
+            font:14px/1.5 Arial, sans-serif;
+            text-align:center;
+            color:#333;
+            background:#FAF0D9;
+        }
+
+        a {
+            font-weight:bold;
+            color:#346AA8;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            text-decoration:none;
+        }
+
+        .container {
+            position:relative;
+            z-index:1;
+            width:600px;
+            padding:20px;
+            margin:0 auto;
+            background:#FAF0D9;
+        }
+
+        .container:after {
+            content:"";
+            display:block;
+            clear:both;
+            visibility:hidden;
+            height:0;
+            font-size:0;
+        }
+
+        /* Shared styles */
+
+        .drop-shadow {
+            position:relative;
+            float:left;
+            width:40%;
+            padding:1em;
+            margin:2em 10px 4em;
+            background:#fff;
+            -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+        }
+
+        .drop-shadow:before,
+        .drop-shadow:after {
+            content:"";
+            position:absolute;
+            z-index:-2;
+        }
+
+        .drop-shadow p {
+            font-size:16px;
+            font-weight:bold;
+        }
+
+        /* Raised shadow - no pseudo-elements needed */
+
+        .raised {
+            -webkit-box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            -moz-box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+        }
+    </style>
   </head>
   
   <body>
@@ -12,7 +84,7 @@
   <p>Hello world! Lets get started.</p>
   
   Right now you're at http://MikeSchroll.github.io - This is the public, <i>RENDERED</i> version of this page.
-  You can confirm that by looking at your address bar, to see the address: <br><img src="http://drp.io/files/530618b120ede.png">
+  You can confirm that by looking at your address bar, to see the address: <br><img class="drop-shadow raised" src="http://drp.io/files/530618b120ede.png">
   <br><b>If thats not the case, then you've already successfully 'cloned' this! You should see your own username. Congrats! Move on to <a href="#Editing">Editing your site.</a></b>
   
   <h2>Copying This for yourself</h2>
