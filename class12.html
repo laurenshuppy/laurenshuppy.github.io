@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+    Class 12: Exercises 1-4
+    </title>
+    <style>
+      body {
+            padding:20px 0 30px;
+            font:14px/1.5 Arial, sans-serif;
+            text-align:left;
+            color:#333;
+            background:#FAF0D9;
+        }
+
+        a {
+            font-weight:bold;
+            color:#346AA8;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            text-decoration:none;
+        }
+
+        .container {
+            position:relative;
+            z-index:1;
+            width:600px;
+            padding:20px;
+            margin:0 auto;
+            background:#FAF0D9;
+        }
+
+        .container:after {
+            content:"";
+            display:block;
+            clear:both;
+            visibility:hidden;
+            height:0;
+            font-size:0;
+        }
+
+        /* Shared styles */
+
+        .drop-shadow {
+            position:relative;
+            /*float:left;*/
+            width:40%;
+            padding:1em;
+            margin:2em 10px 4em;
+            background:#fff;
+            -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+        }
+
+        .drop-shadow:before,
+        .drop-shadow:after {
+            content:"";
+            position:absolute;
+            z-index:-2;
+        }
+
+        .drop-shadow p {
+            font-size:16px;
+            font-weight:bold;
+        }
+
+        /* Raised shadow - no pseudo-elements needed */
+
+        .raised {
+            -webkit-box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            -moz-box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+        }
+    </style>
+  </head>
+  
+  <body>
+  <h1>Class 12: Exercises 1-4</h1>
+  
+  <p>Hello world! Lets get started.</p>
+  
+  Right now you're at http://MikeSchroll.github.io/class12.html - This is the public, <i>RENDERED</i> version of this page.
+  You can confirm that by looking at your address bar, to see the address: <br><img class="drop-shadow raised" src="http://drp.io/files/530618b120ede.png">
+  <br><b>If thats not the case, then you've already successfully 'cloned' this! You should see your own username. Congrats! Move on to <a href="#Editing">Editing your site.</a></b>
+  
+  <h2>Copying This for yourself</h2>
+  
+  Now we're going to help you make a copy so you can edit this page! Follow the steps below:
+  
+  <ol>
+    <li>Visit <a href="https://github.com/MikeSchroll/MikeSchroll.github.io">https://github.com/MikeSchroll/MikeSchroll.github.io</a></li>
+    <li>Log in to github.com with your account</li>
+    <li>Click Fork: <br><img class="drop-shadow raised" src="http://drp.io/files/530618849d9ce.png"></li>
+    <li>Now You have a copy! Lets rename it. Start in Settings: <br><img class="drop-shadow raised" src="http://drp.io/files/53061860d0106.png"></li>
+    <li>Update the name by removing 'Mike Schroll' and placing your github username: <br><img class="drop-shadow raised" src="http://drp.io/files/5306182c5f264.png"></li>  
+    <li>Click Rename! You've now just created your own github pages. Within minutes you can access it at <b>http://YourUsername.github.io</b></li>  
+  </ol>
+
+<h2>Viewing your site &amp; Code</h2>
+
+You should now have your own copy of this document/website. You'll have two versions:
+
+<ul>
+  <li>The rendered page at http://yourusername.github.io (This will work as soon as you make your first edit and commit!)</li>
+  <li>The code at http://github.com/yourusername/yourusername.github.io</li>
+</ul>
+
+<h2 id="Editing">Editing Your Site</h2>
+
+Click on index.html: <br><img class="drop-shadow raised" src="http://drp.io/files/530617faa31b5.png">
+<br><br>Then Edit: <br><img class="drop-shadow raised" src="http://drp.io/files/5306178c6fe34.png">
+<br><br>You'll then be in the editing screen and can start the exercises below: <br><img class="drop-shadow raised" src="http://drp.io/files/5308babf2b0c7.png">
+
+<h2 id="Exercise1">Exercise 1</h2>
+<ol>
+  <li><b>Bold</b> some text</li>
+  <li>Your bolded text here:</li>
+  <li>Now that you've bolded your text in the line above, you can save your work. Do this after each major change:
+    <br><br>Save as often as you'd like by 'committing' your changes: <br><img class="drop-shadow raised" src="http://drp.io/files/53062325975fd.png">
+  </li>
+  <li>Make a <h3>Headline</h3></li>
+  <li>Your headline here:</li>
+  <li>Add an image: <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"> (<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>)</li>
+  <li>Your image here:</li>
+  <li><a href="http://www.coceleratoru.com">Link</a> to some website.</li>
+  <li>Your link here:</li>
+  <li>Add another item to the bottom of this list!</li>
+  <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
+</ol>
+
+<h2 id="Exercise2">Exercise 2</h2>
+<ol>
+  <li>Update all references in this document which say Mike or MikeSchroll to your own name and github username.</li>
+  <li>Go into Readme.md instead of index.html and update MikeSchroll to your github username</li>
+</ol>
+
+<h2 id="Exercise3">Exercise 3</h2>
+<ol>
+  <li><a href="https://help.github.com/articles/markdown-basics">Learn about Markdown</a> and replicate Exercise 1 inside Readme.md</li>
+  <li>You can find an images example <a href="http://guides.github.com/overviews/mastering-markdown/">here</a></li>  
+</ol>
+
+<h2 id="Exercise4">Exercise 4</h2>
+<ol>
+  <li>Remove everything in this document between "Welcome to my site!" and "The End." Below, <b>EXCEPT</b> for Exercise1.</li>
+<li>That includes removing this section 4!</li>
+<li>Write your own content to replace what you've removed. At least two sentences, and use two HTML tags.</li>
+</ol>
+
+<h2>Update your repo with my changes by following <a href="http://stackoverflow.com/questions/20984802/how-can-i-keep-my-fork-in-sync-without-adding-a-separate-remote/21131381#21131381">These Directions</a></h2>
+
+<br>The End.
+  </body>
+</html>
